@@ -30,6 +30,13 @@ Some probles that may appear during the usage:
 
 - Memory limits. Google Drive - 15 GB, Yandex Disk - 10 GB and Telegram - no limits. Could be easily fixed by changing account.
 
+## Makets
+
+<div style="display: flex;">
+    <img src="docs/designs/mobile_design/Layout%20Main.png" alt="Layout Main" width="45%" style="margin: 10px 5px 25px 5px;" />
+    <img src="docs/designs/mobile_design/Layout%20Menu.png" alt="Layout Main" width="45%" style="margin: 10px 5px 25px 5px;" />
+</div>
+
 ## Requirements
 
 Android 7.0 or higher (API level 24)
