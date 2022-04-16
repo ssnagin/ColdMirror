@@ -10,7 +10,7 @@ It will be developed as the final project of Samsung IT School Ivanovo.
 
 ## Small description
 
-Here is a small description, as it is required. At the beginning user would see an intro tab, where explains what to do (accounts connection, password etc.). Then the main window shows. It contains only two big buttons at the center and menu bar at left top corner. First button -- upload file, second -- download file. Menu bar: file explorer, preferences (settings) and about.
+Here is a small description, as it is required. At the beginning, user would see an intro tab, where explains what to do (accounts connection, password etc.). Then the main window shows. It contains only two big buttons at the center and menu bar at left top corner. First button -- upload file, second -- download file. Menu bar: file explorer, preferences (settings) and about.
 
 
 Application will have such functions as:
