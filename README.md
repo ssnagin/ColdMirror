@@ -5,7 +5,7 @@
 
 # ColdMirror
 
-ColdMirror is a simple open-source application that uploads files to different cloud storages.
+ColdMirror is a simple open-source application that uploads files to different cloud storage.
 It will be developed as the final project of Samsung IT School Ivanovo.
 
 ## Small description
@@ -15,9 +15,9 @@ Here is a small description, as it is required. At the beginning user would see 
 
 Application will have such functions as:
 
-- Uploading files to cloud storages. It can be everything: photos and videos, documents etc. I still don't know which services will be used, but Telegram Bookmarks, Google Drive and its Russian replacement Yandex Drive are in priority.
+- Uploading files to cloud storage. It can be everything: photos and videos, documents etc. I still don't know which services will be used, but Telegram Bookmarks, Google Drive and its Russian replacement Yandex Drive are in priority.
 - File encryption. How to prevent data leakage? Set a strong password. All files will be archived with LZMA2 algorythm and in safe untill the password is stolen. (LZMA2 gives a good files compression). According to this, it's possible to keep them **everywhere** 
-- Loading existing data from storages.
+- Loading existing data from storage.
 
 Settings section:
 - Accounts
